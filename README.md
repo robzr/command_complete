@@ -37,3 +37,6 @@ if cc.command_completion_detected?
   exit
 end
 ```
+
+## TODO
+* add some sort of intelligent Regexp support; perhaps as a pass-through 
